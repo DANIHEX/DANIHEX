@@ -3,4 +3,4 @@
 **🧑‍💻 Languages:**
 PHP, JavaScript, HTML and CSS
 
-#### Web designer #### PocketMine plugin developer
+#### Web designer and PocketMine plugin developer
