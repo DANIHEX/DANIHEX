@@ -1,6 +1,4 @@
 ## Hey ☕
 
 **🧑‍💻 Languages:**
-PHP, JavaScript, HTML and CSS
-
-#### Web designer and PocketMine plugin developer
+PHP, JavaScript, C++, HTML and CSS
