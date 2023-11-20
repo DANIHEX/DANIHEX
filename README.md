@@ -4,4 +4,4 @@
 PHP, JavaScript, C++, HTML and CSS
 
 **Speaking Languages:**
-English, Persian and Turkish
+English, Persian, Turkish and a little bit Russian
